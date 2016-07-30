@@ -1,0 +1,13 @@
+name = Aegir Cloud: Linode
+description = Launches servers in linode.
+core = 7.x
+package = Aegir
+
+dependencies[] = aegir_cloud
+
+; Information added by Drupal.org packaging script on 2016-06-10
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "aegir_cloud"
+datestamp = "1465518244"
+
